@@ -1,7 +1,7 @@
 <h1 align="center"> Hi</h1>
 
 
-<p align="center">I'm a student and I like to do programming projects in my free time.<br>
+<p align="center">I'm a student and I like to code in my free time.<br>
 I'm most experienced (and like it the most) in Python but also have experience with other languages.<br>
 I like backend/cli based projects the most but also like to do some design work from time to time. (not very good at that though.)</p>
 

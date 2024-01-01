@@ -18,7 +18,7 @@ They can be found here:</p>
 <p align="center">I'm open to colaborate with other people. <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me on github. 
 
 <h3 align="center">Contact </h3>
-<p align="center">If you want to contact me, you can send me a <a href="mailto://timo@ntdev-technology.nl">email</a>.</p>
+<p align="center">If you want to contact me, you can send me a <a href="mailto:timo@ntdev-technology.nl">email</a>.</p>
   <!--
 **Tommie1236/Tommie1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

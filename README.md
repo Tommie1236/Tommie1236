@@ -19,6 +19,9 @@ They can be found here:</p>
 
 <h3 align="center">Contact </h3>
 <p align="center">If you want to contact me, you can send me a <a href="mailto:timo@ntdev-technology.nl" target="_blank">email</a>.</p>
+ 
+  
+https://www.paypal.com/donate/?hosted_button_id=YLY6FSTV7RPTC
   <!--
 **Tommie1236/Tommie1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

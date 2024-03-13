@@ -24,7 +24,7 @@ They can be found here:</p>
 <h3 >Support</h3>
 <p>If you want to support me you can click the button down below.<br>Thanks!</p>
 
-[<kbd> <br>PayPal Donate Link<br> </kbd>][DONATE]
+[<kbd> <br> Buy me a coffee <br> </kbd>][DONATE]
 
 </div>
 

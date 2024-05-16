@@ -10,7 +10,7 @@ I like backend/cli based projects the most but also like to do some design work 
 <h3 >Projects </h3>
 <p > I have some projects in my private account but most are made in collaboration with some other amazing people. <br>
 They can be found here:</p>
-  - <a href="https://www.github.com/ntdev-technology">NTDev-Technology</a> dev team
+  - CSA of <a href="https://www.github.com/ntdev-technology">NTDev-Technology</a> dev team
   <br>
   - <a href="https://www.github.com/hybridlights">HybridLights</a>
 

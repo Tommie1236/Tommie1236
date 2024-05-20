@@ -18,8 +18,8 @@ They can be found here:</p>
 <h3 >Collaboration </h3>
 <p >I'm open to colaborate with other people. <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me on github. 
 
-<h3 >Contact </h3>
-<p >If you want to contact me, you can send me a <a href="mailto:timo@ntdev-technology.nl" target="_blank">email</a>.</p>
+<!-- <h3 >Contact </h3>
+<p >If you want to contact me, you can send me a <a href="mailto:timo@ntdev-technology.nl" target="_blank">email</a>.</p> -->
   
 <h3 >Support</h3>
 <p>If you want to support me you can click the button down below.<br>Thanks!</p>

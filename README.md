@@ -16,10 +16,7 @@ They can be found here:</p>
 
 
 <h3 >Collaboration </h3>
-<p >I'm open to colaborate with other people. <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me on github. 
-
-<!-- <h3 >Contact </h3>
-<p >If you want to contact me, you can send me a <a href="mailto:timo@ntdev-technology.nl" target="_blank">email</a>.</p> -->
+<p >I'm open to colaborate with the other amazing people on there. (Like You) <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me in a issue or something. 
   
 <h3 >Support</h3>
 <p>If you want to support me you can click the button down below.<br>Thanks!</p>
@@ -30,17 +27,3 @@ They can be found here:</p>
 
 
 [DONATE]: https://www.paypal.com/donate/?hosted_button_id=YLY6FSTV7RPTC
-  <!--
-**Tommie1236/Tommie1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

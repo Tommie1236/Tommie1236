@@ -17,11 +17,11 @@ They can be found here:</p>
 
 <h3 >Collaboration </h3>
 <p >I'm open to colaborate with the other amazing people on there. (Like You) <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me in a issue or something. 
-  
+<!--
 <h3 >Support</h3>
 <p>If you want to support me you can click the button down below.<br>Thanks!</p>
 
-[<kbd> <br> Support Me <br> </kbd>][DONATE]
+<!--[<kbd> <br> Support Me <br> </kbd>][DONATE]
 
 </div>
 

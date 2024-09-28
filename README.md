@@ -8,11 +8,11 @@ I'm most experienced (and like it the most) in Python but also have experience w
 I like backend/cli based projects the most but also like to do some design work from time to time. (not very good at that though.)</p>
 
 <h3 >Projects </h3>
-<p > I have some projects in my private account but most are made in collaboration with some other amazing people. <br>
-They can be found here:</p>
-  - Co-Founder and CSA of <a href="https://www.github.com/ntdev-technology">NTDev-Technology</a> dev team
+<p> I'm currently working on a <a href="https://github.com/tommie1236/midi-controller" >custom midi controller</a> and a rpi pico based <a href="https://github.com/Tommie1236/pico-art-net-node" >Art-net node</a>.</p>
+<p> Some other projects I'm working on with others can be found in the orginizations below</p>
+  - Co-Founder and CSA of <a href="https://github.com/ntdev-technology">NTDev-Technology</a> dev team
   <br>
-  - Founder of <a href="https://www.github.com/hybridlights">HybridLights</a>
+  - Founder of <a href="https://github.com/hybridlights">HybridLights</a> (not really anything at the moment, sorry)
 
 
 <h3 >Collaboration </h3>

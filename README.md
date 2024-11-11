@@ -12,7 +12,7 @@ I like backend/cli based projects the most but also like to do some design work 
 <p> Some other projects I'm working on with others can be found in the orginizations below</p>
   - Co-Founder and CSA of <a href="https://github.com/ntdev-technology">NTDev-Technology</a> dev team
   <br>
-  - Founder of <a href="https://github.com/hybridlights">HybridLights</a> (not really anything at the moment, sorry)
+  - Founder of <a href="https://github.com/hybridlights">HybridLights</a> 
 
 
 <h3 >Collaboration </h3>

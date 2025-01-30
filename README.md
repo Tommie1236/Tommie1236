@@ -16,7 +16,9 @@ I like backend/cli based projects the most but also like to do some design work 
 
 
 <h3 >Collaboration </h3>
-<p >I'm open to colaborate with the other amazing people on there. (Like You) <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me in a issue or something. 
+<p >I'm open to colaborate with the other amazing people on there. (Like You) <br> If you'r creating a project and want some help, feel free to reach out to the email down below or tag me in a issue or something.  
+
+<img src="https://waka.hackclub.com/api/activity/chart/U07F798D3NF.svg">
 <!--
 <h3 >Support</h3>
 <p>If you want to support me you can click the button down below.<br>Thanks!</p>

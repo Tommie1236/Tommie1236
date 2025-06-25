@@ -9,5 +9,5 @@ If you want to contact me please create a issue in one of my repos or tag me. Th
 
   
 
-<img src="https://waka.hackclub.com/api/activity/chart/U07F798D3NF.svg">
+<img src="https://hackatime.hackclub.com/api/activity/chart/U07F798D3NF.svg">
 <!--
